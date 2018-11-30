@@ -8,9 +8,9 @@ var accountSid = "ACd9cd910494b0f6bcdbbbef747f80ca9f";
 
 var appConfig = {
   // Uncomment the following lines to enable automatic log in
-  //
-  // serviceBaseUrl: serviceBaseUrl  + "/",
-  // sso: {
-  //   accountSid: accountSid
-  // }
+ 
+  serviceBaseUrl: serviceBaseUrl  + "/",
+  sso: {
+  accountSid: accountSid
+  }
 }
