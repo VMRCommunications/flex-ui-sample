@@ -3,7 +3,7 @@ var serviceBaseUrl = window.location.origin;
 // serviceBaseUrl = "https://somedomain.twil.io";
 
 // set your account sid here
-var accountSid = "ACxcvxcv...";
+var accountSid = "ACd9cd910494b0f6bcdbbbef747f80ca9f";
 
 
 var appConfig = {
